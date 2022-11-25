@@ -1,2 +1,2 @@
-# OS Class
+# OS class
 + Operating systems university lab work
