@@ -1,0 +1,2 @@
+# subgradient
+- This project approaches a software solution that uses a soft-margin Support Vector Machine to categorize text messages as either spam or ham. The programme is progressively learning to distinguish both types of messages by applying the subgradient algorithm.
