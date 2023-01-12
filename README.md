@@ -1,8 +1,8 @@
 # bbu-classes
 Find what you need, take what you may 🌻
 
-# 📓 Bachelor's Mathematics & Computer Science Babes-Bolyai University (UBB)
-# 📖 Master's Applied Computational Intelligence Babes-Bolyai University (UBB)
+## 📓 Bachelor's Mathematics & Computer Science Babes-Bolyai University (UBB)
+## 📖 Master's Applied Computational Intelligence Babes-Bolyai University (UBB)
 
 ## 1️⃣ Semester
 * [Programming Fundamentals]()
