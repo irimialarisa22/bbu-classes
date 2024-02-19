@@ -4,4 +4,4 @@
 
 You should see something like this:
 
-<img src="https://github.com/irimialarisa22/bbu-classes/blob/main/stereo-camera-calibrate/output/first_calibration_img.png" width="100px"/>
+<img src="https://github.com/irimialarisa22/bbu-classes/blob/main/stereo-camera-calibrate/output/first_calibration_img.png" width="4000px"/>
